@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "whatsapp-clone-67bd9",
+    "whatsappclone": "whatsapp-clone-67bd9"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
